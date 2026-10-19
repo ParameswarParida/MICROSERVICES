@@ -1,0 +1,11 @@
+# Maven build output
+**/target/
+
+# IDE files
+.idea/
+.run/
+.vscode/
+*.iml
+
+# Local observability server binary (129 MB)
+/zipkin-server-3.6.1-exec.jar
